@@ -35,11 +35,21 @@ RUN codeql pack download codeql/python-queries \
     && codeql pack download codeql/actions-queries \
     || echo "Note: Some query packs may not be available in offline mode. They will be downloaded on first use."
 
+
+
+# Install GitLeaks
+RUN curl -sSfL https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_x64.tar.gz -o gitleaks.tar.gz \
+    && tar -xzf gitleaks.tar.gz gitleaks \
+    && mv gitleaks /usr/local/bin/ \
+    && chmod +x /usr/local/bin/gitleaks \
+    && rm gitleaks.tar.gz
+
 # Verify CodeQL, Grype, Node.js, and npm installation
 RUN echo "CodeQL version:" && codeql version \
     && echo "Grype version:" && grype version \
     && echo "Node.js version:" && node --version \
-    && echo "npm version:" && npm --version
+    && echo "npm version:" && npm --version \
+    && echo "GitLeaks version:" && gitleaks version
 
 # Set environment variables for uv
 ENV UV_LINK_MODE=copy

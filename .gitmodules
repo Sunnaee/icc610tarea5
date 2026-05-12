@@ -13,3 +13,78 @@
 [submodule "data/repos/cache"]
 	path = data/repos/cache
 	url = https://github.com/actions/cache.git
+[submodule "data/repos/next.js"]
+	path = data/repos/next.js
+	url = https://github.com/vercel/next.js.git
+[submodule "data/repos/hyper"]
+	path = data/repos/hyper
+	url = https://github.com/vercel/hyper.git
+[submodule "data/repos/swr"]
+	path = data/repos/swr
+	url = https://github.com/vercel/swr.git
+[submodule "data/repos/pkg"]
+	path = data/repos/pkg
+	url = https://github.com/vercel/pkg.git
+[submodule "data/repos/ai"]
+	path = data/repos/ai
+	url = https://github.com/vercel/ai.git
+[submodule "data/repos/chatbot"]
+	path = data/repos/chatbot
+	url = https://github.com/vercel/chatbot.git
+[submodule "data/repos/vercel"]
+	path = data/repos/vercel
+	url = https://github.com/vercel/vercel.git
+[submodule "data/repos/commerce"]
+	path = data/repos/commerce
+	url = https://github.com/vercel/commerce.git
+[submodule "data/repos/satori"]
+	path = data/repos/satori
+	url = https://github.com/vercel/satori.git
+[submodule "data/repos/micro"]
+	path = data/repos/micro
+	url = https://github.com/vercel/micro.git
+[submodule "data/repos/serve"]
+	path = data/repos/serve
+	url = https://github.com/vercel/serve.git
+[submodule "data/repos/ncc"]
+	path = data/repos/ncc
+	url = https://github.com/vercel/ncc.git
+[submodule "data/repos/styled-jsx"]
+	path = data/repos/styled-jsx
+	url = https://github.com/vercel/styled-jsx.git
+[submodule "data/repos/nextjs-subscription-payments"]
+	path = data/repos/nextjs-subscription-payments
+	url = https://github.com/vercel/nextjs-subscription-payments.git
+[submodule "data/repos/next-forge"]
+	path = data/repos/next-forge
+	url = https://github.com/vercel/next-forge.git
+[submodule "data/repos/platforms"]
+	path = data/repos/platforms
+	url = https://github.com/vercel/platforms.git
+[submodule "data/repos/ms"]
+	path = data/repos/ms
+	url = https://github.com/vercel/ms.git
+[submodule "data/repos/streamdown"]
+	path = data/repos/streamdown
+	url = https://github.com/vercel/streamdown.git
+[submodule "data/repos/examples"]
+	path = data/repos/examples
+	url = https://github.com/vercel/examples.git
+[submodule "data/repos/next-learn"]
+	path = data/repos/next-learn
+	url = https://github.com/vercel/next-learn.git
+[submodule "data/repos/og-image"]
+	path = data/repos/og-image
+	url = https://github.com/vercel/og-image.git
+[submodule "data/repos/release"]
+	path = data/repos/release
+	url = https://github.com/vercel/release.git
+[submodule "data/repos/hazel"]
+	path = data/repos/hazel
+	url = https://github.com/vercel/hazel.git
+[submodule "data/repos/next-app-router-playground"]
+	path = data/repos/next-app-router-playground
+	url = https://github.com/vercel/next-app-router-playground.git
+[submodule "data/repos/kirimase"]
+	path = data/repos/kirimase
+	url = https://github.com/vercel/kirimase.git

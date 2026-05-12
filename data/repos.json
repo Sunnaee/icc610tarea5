@@ -1,28 +1,128 @@
 {
     "repositories": [
         {
-            "url": "https://github.com/actions/starter-workflows.git",
-            "path": "data/repos/starter-workflows",
+            "url": "https://github.com/vercel/next.js.git",
+            "path": "data/repos/next.js",
             "ref": null
         },
         {
-            "url": "https://github.com/actions/checkout.git",
-            "path": "data/repos/checkout",
+            "url": "https://github.com/vercel/hyper.git",
+            "path": "data/repos/hyper",
             "ref": null
         },
         {
-            "url": "https://github.com/actions/github-script.git",
-            "path": "data/repos/github-script",
+            "url": "https://github.com/vercel/swr.git",
+            "path": "data/repos/swr",
             "ref": null
         },
         {
-            "url": "https://github.com/actions/cache.git",
-            "path": "data/repos/cache",
+            "url": "https://github.com/vercel/pkg.git",
+            "path": "data/repos/pkg",
             "ref": null
         },
         {
-            "url": "https://github.com/actions/toolkit.git",
-            "path": "data/repos/toolkit",
+            "url": "https://github.com/vercel/ai.git",
+            "path": "data/repos/ai",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/chatbot.git",
+            "path": "data/repos/chatbot",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/vercel.git",
+            "path": "data/repos/vercel",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/commerce.git",
+            "path": "data/repos/commerce",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/satori.git",
+            "path": "data/repos/satori",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/micro.git",
+            "path": "data/repos/micro",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/serve.git",
+            "path": "data/repos/serve",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/ncc.git",
+            "path": "data/repos/ncc",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/styled-jsx.git",
+            "path": "data/repos/styled-jsx",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/nextjs-subscription-payments.git",
+            "path": "data/repos/nextjs-subscription-payments",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/next-forge.git",
+            "path": "data/repos/next-forge",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/platforms.git",
+            "path": "data/repos/platforms",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/ms.git",
+            "path": "data/repos/ms",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/streamdown.git",
+            "path": "data/repos/streamdown",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/examples.git",
+            "path": "data/repos/examples",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/next-learn.git",
+            "path": "data/repos/next-learn",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/og-image.git",
+            "path": "data/repos/og-image",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/release.git",
+            "path": "data/repos/release",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/hazel.git",
+            "path": "data/repos/hazel",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/next-app-router-playground.git",
+            "path": "data/repos/next-app-router-playground",
+            "ref": null
+        },
+        {
+            "url": "https://github.com/vercel/kirimase.git",
+            "path": "data/repos/kirimase",
             "ref": null
         }
     ]

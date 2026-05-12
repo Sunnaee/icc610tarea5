@@ -1,0 +1,23 @@
+[
+ {
+  "RuleID": "jwt",
+  "Description": "Uncovered a JSON Web Token, which may lead to unauthorized access to web applications and sensitive user data.",
+  "StartLine": 4,
+  "EndLine": 4,
+  "StartColumn": 33,
+  "EndColumn": 186,
+  "Match": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6ImFub24iLCJleHAiOjE5ODM4MTI5OTZ9.CRXP1A7WOeoJeXxjNni43kdQwgnWNReilDMblYTn_I0\"",
+  "Secret": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6ImFub24iLCJleHAiOjE5ODM4MTI5OTZ9.CRXP1A7WOeoJeXxjNni43kdQwgnWNReilDMblYTn_I0",
+  "File": ".env.local.example",
+  "SymlinkFile": "",
+  "Commit": "2ba52c61e9e2deee7e782f32d6de51c688947cd6",
+  "Link": "https://github.com/vercel/nextjs-subscription-payments/blob/2ba52c61e9e2deee7e782f32d6de51c688947cd6/.env.local.example#L4",
+  "Entropy": 5.4937463,
+  "Author": "Jon Meyers",
+  "Email": "jonathon.d.meyers@gmail.com",
+  "Date": "2024-02-23T00:13:16Z",
+  "Message": "Chore: Improve onboarding (#304)",
+  "Tags": [],
+  "Fingerprint": "2ba52c61e9e2deee7e782f32d6de51c688947cd6:.env.local.example:jwt:4"
+ }
+]
